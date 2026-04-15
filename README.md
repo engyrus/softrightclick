@@ -2,7 +2,9 @@
 A Windows utility that allows you to long-click the mouse in order to right-click, intended for use with touchscreen notebooks.
 
 Note from the author: I wrote this for myself a long time ago. It was my first major project using AutoHotkey.
-The code is not very good, but it works. The original README follows.
+The code is not very good, but it works. However, I do not intend to update it further.
+
+The original README (lightly edited) follows.
 
 # SoftRightClick 1.9B of February 16, 2006 by Jerry Kindall
 
@@ -160,5 +162,3 @@ SoftRightClick is free. By which I mean not merely the wimpy version of "free" i
 	when unhooking in disabled mode.  More accurate detection of taps
 	on our tray icon (sometimes it would think the neighboring icon was
 	ours). Updated version of AutoHotkey engine.
-
-Other ideas? Feedback? Tell me -- see e-mail address under CONTACT INFO above.
