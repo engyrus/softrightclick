@@ -103,11 +103,9 @@ Another option is to uninstall ZoneAlarm. Windows' built-in firewall, believe it
 
 ## Credit where due
 
-SoftRightClick was developed with AutoHotKey, a pretty kick-ass scripting utility that happens to be free to download and use. It includes a utility to turn your scripts into EXEs complete with taskbar icons. One of the sample scripts is a script is a mouse gesture interpreter! That's just Airwolf.*
+SoftRightClick was developed with AutoHotKey, a pretty kick-ass scripting utility that happens to be free to download and use. It includes a utility to turn your scripts into EXEs complete with taskbar icons. One of the sample scripts is a script is a mouse gesture interpreter!
 
 More about AutoHotkey here: http://www.autohotkey.com/
-
-More about "Airwolf" as a superlative here: http://www.ernestcline.com/spokenword/Airwolf-Ernie_Cline.mp3
 
 # Copyright (not)
 
@@ -162,6 +160,5 @@ SoftRightClick is free. By which I mean not merely the wimpy version of "free" i
 	when unhooking in disabled mode.  More accurate detection of taps
 	on our tray icon (sometimes it would think the neighboring icon was
 	ours). Updated version of AutoHotkey engine.
-
 
 Other ideas? Feedback? Tell me -- see e-mail address under CONTACT INFO above.
